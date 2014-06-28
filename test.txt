@@ -1,1 +1,3 @@
-test test 
+test test allore zeze 
+    If you did this already, delete the swap file "C:\Users\Mierda\Desktop\testgit\testgit\.git\.COMMIT_EDITMSG.swp"g
+    test22
